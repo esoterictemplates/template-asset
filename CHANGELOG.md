@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.0
+
+- Reworked [README.md](./README.md).
+
 ## 1.0.6
 
 - Added `dist` to [.gitignore](./.gitignore). ([upstream](https://github.com/EsotericTemplates/template-repository))
