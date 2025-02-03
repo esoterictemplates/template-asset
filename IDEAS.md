@@ -6,4 +6,6 @@ This file is used to track ideas and planned features for this project. Implemen
 
 ## Considered
 
+- Organise [Creative Commons icons](./.assets/images/icons/cc) to have a separate folder for the license attribute icons.
+
 ## Won't Implement
