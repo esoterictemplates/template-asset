@@ -42,7 +42,7 @@ See [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) for the code of conduct.
 ## License
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
-  &copy; <year> <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://repository-author.xyz">Repository Author</a>
+  &copy; year <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://repository-author.xyz">Repository Author</a>
 
   <a property="dct:title" rel="cc:attributionURL" href="./">Repository Name</a> is licensed under <a href="./LICENSE" target="_blank" rel="license noopener noreferrer" style="display: inline-block">CC BY-SA 4.0</a>.
 
