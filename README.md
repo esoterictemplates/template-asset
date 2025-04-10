@@ -71,7 +71,7 @@ See [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) for the code of conduct.
 
   <a property="dct:title" rel="cc:attributionURL" href="/">Template Asset Repository</a> is licensed under <a href="./LICENSE" target="_blank" rel="license noopener noreferrer" style="display: inline-block">CC BY-SA 4.0</a>.
 
-  <a href="https://creativecommons.org/"><img style="height: 22px !important; margin-left: 3px; vertical-align: middle" src="./.assets/images/icons/cc/cc.svg" alt="Creative Commons logo" /></a><a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"><img style="height: 22px !important; margin-left: 3px; vertical-align: middle" src="./.assets/images/icons/cc/by.svg" alt="Creative Commons Attribution icon" /><img style="height: 22px !important; margin-left: 3px; vertical-align: middle" src="./.assets/images/icons/cc/sa.svg" alt="Creative Commons ShareAlike icon" /></a>
+  <a href="https://creativecommons.org/"><img style="height: 22px !important; margin-left: 3px; vertical-align: middle" src="./.assets/images/icons/cc/cc.svg" alt="Creative Commons logo" /></a><a href="https://creativecommons.org/licenses/by-sa/4.0/"><img style="height: 22px !important; margin-left: 3px; vertical-align: middle" src="./.assets/images/icons/cc/by.svg" alt="Creative Commons Attribution icon" /><img style="height: 22px !important; margin-left: 3px; vertical-align: middle" src="./.assets/images/icons/cc/sa.svg" alt="Creative Commons ShareAlike icon" /></a>
 </p>
 
 ## Topics
